@@ -1,0 +1,21 @@
+#PYTHON 2
+ 
+#print "AsAD"    python2
+# raw_input('What is your name?')
+
+
+
+#PYTHON 3
+
+# print("hello world")
+# input("ENTER YOUR NAME")
+
+
+
+# x=1
+# print(x)
+# x=x+1
+# print(x)
+
+
+
